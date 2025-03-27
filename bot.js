@@ -8,7 +8,7 @@ const client = new Client({
     ]
 });
 
-const token = "MTM1NDUzMzUwMjU3NzY3NjM1OA.G4VE53.szjdASpZ_Rv7G6FcbTQrGHarJHHzgAT4kzwPnc"; // Ubaci svoj bot token ovde
+const token = "YOUR TOKEN"; // Ubaci svoj bot token ovde
 const forbiddenWords = ["kaladont"];
 let lastWord = "";
 let gameActive = false;
